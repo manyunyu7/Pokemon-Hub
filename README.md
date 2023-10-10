@@ -1,6 +1,5 @@
 # **Pokemon Hub**
 
-Mandiri Movie Hub is an Android app tailored for movie enthusiasts, seamlessly integrating with The Movie Database (TMDb). Explore an extensive film collection with ease, catering to both novice and seasoned cinephiles. Discover, learn, and enjoy movies effortlessly through a user-friendly interface.
 
 
 
