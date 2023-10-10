@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_snips_home">
+
+
+
+
+
+    <fragment
+        android:id="@+id/navigation_snips_home"
+        android:name="com.feylabs.feat_ui_home.ui.SnipsHomeFragment"
+        android:label="Snips Home">
+
+        <deepLink app:uri="@string/route_lumina_homes" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/navigation_pokemon_detail"
+        android:name="com.feylabs.feat_ui_detail.PokemonDetailFragment"
+        android:label="Pokemon Detail">
+
+        <deepLink app:uri="@string/route_pokemon_detail" />
+    </fragment>
+
+
+
+
+
+</navigation>
